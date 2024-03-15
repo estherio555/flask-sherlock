@@ -4,7 +4,7 @@
 
 Sherlock is the best movie recommendation engine ever created. Isn't it Dr. [Jekyll](https://jekyllrb.com/)? More advanced references please look up how [Jekyll docs](https://github.com/jekyll/jekyll/tree/master/docs) are structured.
 
-![Esther]([img](https://onedrive.homedepot.com/:i:/r/personal/esther_d_ezekiel_homedepot_com/Documents/Pictures/LG1.png?csf=1&web=1&e=gDAl5z))
+![Sherlock](https://onedrive.homedepot.com/:i:/r/personal/esther_d_ezekiel_homedepot_com/Documents/Pictures/LG1.png?csf=1&web=1&e=gDAl5z)
 
 ``
 ![sherlock](https://c8.alamy.com/comp/HHCX7G/sherlock-holmes-with-computer-laptop-silhouette-#sitting-in-rocking-HHCX7G.jpg)
@@ -40,5 +40,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]([url](https://github.com/estherio555/flask-sherlock/wiki)and ![Image](src)
+[Link]([url]and![Image](src)
 ```
